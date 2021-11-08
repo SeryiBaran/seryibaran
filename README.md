@@ -30,6 +30,16 @@ https://seryibaran.github.io/site/
 
 ---------------------------------------------------
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=SeryiBaran)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SeryiBaran)
+
+![GitHub metrics](https://metrics.lecoq.io/SeryiBaran)
+
+![Profile views](https://gpvc.arturio.dev/SeryiBaran)
+
+---------------------------------------------------
+
 [![Seryi Baran's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeryiBaran&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeryiBaran&layout=compact&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
