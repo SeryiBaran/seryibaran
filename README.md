@@ -4,9 +4,9 @@ My name is Ivan, I am 13 years old.
 
 I have my own website:
 
-https://seryibaran.github.io/site/
+https://seryibaran.github.io/
 
-- 🔭 I’m currently working on a "site"
+- 🔭 I’m currently working on a "seryibaran.github.io"
 - 🌱 I’m currently learning Web-programming
 - 📫 How to reach me: seryibaranminepy@yandex.ru
 ---------------------------------------------------
@@ -16,9 +16,9 @@ https://seryibaran.github.io/site/
 
 У меня есть свой собственный сайт:
 
-https://seryibaran.github.io/site/
+https://seryibaran.github.io/
 
-- 🔭 Сейчас я работаю над "site"
+- 🔭 Сейчас я работаю над "seryibaran.github.io"
 - 🌱 Сейчас я изучаю веб-программирование
 - 📫 Как со мной связаться: seryibaranminepy@yandex.ru
 
