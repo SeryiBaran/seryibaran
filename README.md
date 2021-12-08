@@ -8,6 +8,19 @@ I have my own website:
 https://seryibaran.github.io/
 
 # Technologies and tools:
+<table style="border-size:0px">
+  <tr>
+    <td style="border: none;" width="90"><img src="https://cdn.iconscout.com/icon/free/png-64/html-1175208.png"> HTML</td>
+    <td style="border: none;" width="90"><img src="https://cdn.iconscout.com/icon/free/png-64/css-1175237.png"> CSS</td>
+    <td style="border: none;" width="90"><img src="https://cdn.iconscout.com/icon/free/png-64/sass-226054.png"> Sass</td>
+    <td style="border: none;" width="90"><img src="https://cdn.iconscout.com/icon/free/png-64/vscode-2945213.png"> Visual Studio Code</td>
+    <td style="border: none;" width="90"><img src="https://cdn.iconscout.com/icon/free/png-64/git-225996.png"> Git</td>
+    <td style="border: none;" width="90"><img src="https://cdn.iconscout.com/icon/free/png-64/js-3029998.png"> JavaScript (not completely)</td>
+    <td style="border: none;" width="90"><img src="https://cdn.iconscout.com/icon/free/png-64/node-js-1174925.png"> Node.js (not completely)</td>
+    <td style="border: none;" width="90"><img src="https://cdn.iconscout.com/icon/free/png-64/python-2-226051.png"> Python (not completely)</td>
+  </tr>
+</table>
+
 
 # Statistics:
 <details>
