@@ -2,7 +2,8 @@
 My name is Ivan, I am 13 years old.  
 - 🌱 I’m currently learning Web-programming
 - 🔭 I’m currently working on a "seryibaran.github.io"
-- 📫 How to reach me: https://seryibaran.github.io/, seryibaranminepy@yandex.ru  
+- 📫 How to reach me: https://seryibaran.github.io/, seryibaranminepy@yandex.ru
+
 I have my own website:  
 https://seryibaran.github.io/
 
