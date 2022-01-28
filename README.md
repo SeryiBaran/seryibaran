@@ -1,7 +1,7 @@
 # About Me
 My name is Ivan, I am 13 years old.  
-- 🌱 I’m currently learning Web-programming
-- 🔭 I’m currently working on a "seryibaran.github.io"
+- 🌱 I’m currently learning JavaScript and React.js
+- 🔭 I’m currently working on a dreamdev.team's projects
 - 📫 How to reach me: https://seryibaran.github.io/, seryibaranminepy@yandex.ru
 
 I have my own website:  
@@ -17,6 +17,7 @@ https://seryibaran.github.io/
     <td style="border: none;" width="90"><img src="https://cdn.iconscout.com/icon/free/png-64/git-225996.png"> Git</td>
     <td style="border: none;" width="90"><img src="https://cdn.iconscout.com/icon/free/png-64/js-3029998.png"> JavaScript (not completely)</td>
     <td style="border: none;" width="90"><img src="https://cdn.iconscout.com/icon/free/png-64/node-js-1174925.png"> Node.js (not completely)</td>
+    <td style="border: none;" width="90"><img src="https://cdn.iconscout.com/icon/free/png-64/react-282599.png"> React.js (not completely)</td>
     <td style="border: none;" width="90"><img src="https://cdn.iconscout.com/icon/free/png-64/python-2-226051.png"> Python (not completely)</td>
   </tr>
 </table>
