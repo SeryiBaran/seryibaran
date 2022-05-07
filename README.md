@@ -17,7 +17,6 @@ https://seryibaran.github.io/
     <td style="border: none;" width="90" align="center"><a href="https://nodejs.org"><img src="https://cdn.iconscout.com/icon/free/png-64/node-js-1174925.png"></a>Node.js</td>
     <td style="border: none;" width="90" align="center"><a href="https://reactjs.org/"><img src="https://cdn.iconscout.com/icon/free/png-64/react-282599.png"></a>React.js</td>
     <td style="border: none;" width="90" align="center"><a href="https://www.python.org/"><img src="https://cdn.iconscout.com/icon/free/png-64/python-2-226051.png"></a>Python</td>
-    <td style="border: none;" width="90" align="center"><a href="https://code.visualstudio.com/"><img src="https://cdn.iconscout.com/icon/free/png-64/vscode-2945213.png"></a>Visual Studio Code</td>
     <td style="border: none;" width="90" align="center"><a href="https://git-scm.com/"><img src="https://cdn.iconscout.com/icon/free/png-64/git-225996.png"></a>Git</td>
     <td style="border: none;" width="90" align="center"><a href="https://www.docker.com/"><img src="https://cdn.iconscout.com/icon/free/png-64/docker-2944835.png"></a>Docker</td>
   </tr>
