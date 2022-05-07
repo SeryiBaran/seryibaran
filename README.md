@@ -1,8 +1,9 @@
 # About Me
-My name is Ivan, I am 13 years old.  
-- 🌱 I’m currently learning JavaScript and React.js
-- 🔭 I’m currently working on a <a href="https://github.com/dreamdevTeamX">dreamdev.team</a>'s and <a href="https://github.com/f5ociety">F5ociety</a>'s projects
-- 📫 How to reach me: https://seryibaran.github.io/, seryibaranminepy@yandex.ru
+My name is Ivan, I am 13 years old. I'm going to become a **Frontend developer** and take over the **DevOps** world a bit :)  
+Currently I learning **JavaScript** and **React.js**.  
+I’m working in a [**DreamDev.team**](https://github.com/dreamdevTeamX) and [**F5ociety**](https://github.com/f5ociety).
+
+Contact me: [**Site**](https://seryibaran.github.io/), [**E-Mail**](mailto:seryibaranminepy@yandex.ru)
 
 # Technologies and tools:
 <table style="border-size:0px">
@@ -20,14 +21,13 @@ My name is Ivan, I am 13 years old.
   </tr>
 </table>
 
-
-# Statistics:
+# Statistics
 <details>
-<summary>Click for GitHub Stats</summary>
+  <summary><b>Click to see the statistics</b></summary>
 
-[![SeryiBaran's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SeryiBaran)](https://github.com/anuraghazra/github-readme-stats)
-[![](https://raw.githubusercontent.com/SeryiBaran/seryibaran/master/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/SeryiBaran/seryibaran/master/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/SeryiBaran/seryibaran/master/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/SeryiBaran/seryibaran/master/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/SeryiBaran/seryibaran/master/profile-summary-card-output/monokai/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+  [![SeryiBaran's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SeryiBaran)](https://github.com/anuraghazra/github-readme-stats)
+  [![](https://raw.githubusercontent.com/SeryiBaran/seryibaran/master/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+  [![](https://raw.githubusercontent.com/SeryiBaran/seryibaran/master/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+  [![](https://raw.githubusercontent.com/SeryiBaran/seryibaran/master/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 </details>
