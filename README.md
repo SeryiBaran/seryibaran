@@ -1,11 +1,8 @@
 # About Me
 My name is Ivan, I am 13 years old.  
 - 🌱 I’m currently learning JavaScript and React.js
-- 🔭 I’m currently working on a <a href="https://github.com/dreamdevTeamX">dreamdev.team</a>'s projects
+- 🔭 I’m currently working on a <a href="https://github.com/dreamdevTeamX">dreamdev.team</a>'s and <a href="https://github.com/f5ociety">F5ociety</a>'s projects
 - 📫 How to reach me: https://seryibaran.github.io/, seryibaranminepy@yandex.ru
-
-I have my own website:  
-https://seryibaran.github.io/
 
 # Technologies and tools:
 <table style="border-size:0px">
@@ -19,6 +16,7 @@ https://seryibaran.github.io/
     <td style="border: none;" width="90" align="center"><a href="https://www.python.org/"><img src="https://cdn.iconscout.com/icon/free/png-64/python-2-226051.png"></a>Python</td>
     <td style="border: none;" width="90" align="center"><a href="https://git-scm.com/"><img src="https://cdn.iconscout.com/icon/free/png-64/git-225996.png"></a>Git</td>
     <td style="border: none;" width="90" align="center"><a href="https://www.docker.com/"><img src="https://cdn.iconscout.com/icon/free/png-64/docker-2944835.png"></a>Docker</td>
+    <td style="border: none;" width="90" align="center"><a href="https://www.kernel.org/"><img src="https://cdn.iconscout.com/icon/free/png-64/linux-1174928.png"></a>Linux</td>
   </tr>
 </table>
 
