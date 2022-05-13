@@ -1,6 +1,6 @@
 # About Me
 My name is Ivan, I am 13 years old. I'm going to become a **Frontend developer** and take over the **DevOps** world a bit :)  
-Currently I learning **JavaScript**, **Typescript**, **React.js**, **Linux**.  
+Currently I learning **JavaScript**, **Typescript**, **React.js** and **Linux**.  
 I’m working in a [**DreamDev.team**](https://github.com/dreamdevTeamX) and [**F5ociety**](https://github.com/f5ociety).
 
 Contact me: [**Site**](https://seryibaran.github.io/), [**E-Mail**](mailto:seryibaranminepy@yandex.ru)
