@@ -1,5 +1,7 @@
 # About Me
-My name is Ivan. I'm learning **Frontend** development. Also, I'm going to learn DevOps.  
+My name is Ivan. I'm 13 years old.
+
+I'm learning **Frontend** development, and going to learning **DevOps**.  
 Currently I'm studying **JavaScript** (+ **React** library), **TypeScript**, **Node.js** (+ **Express** framework) and **Linux** administration.  
 I know **HTML**, **CSS** (+ **Sass** preprocessor) and **Git** well.  
 I’m working in a [**DreamDev.team**](https://github.com/dreamdevTeamX) and [**F5ociety**](https://github.com/f5ociety).
