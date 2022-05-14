@@ -1,9 +1,10 @@
 # About Me
-My name is Ivan, I am 13 years old. I'm going to become a **Frontend developer** and take over the **DevOps** world a bit :)  
-Currently I learning **CSS**, **JavaScript**, **Typescript**, **React.js** and **Linux**.  
+My name is Ivan. I'm learning **Frontend** development. Also, I'm going to learn DevOps.  
+Currently I'm studying **JavaScript** (+ **React** library), **TypeScript**, **Node.js** (+ **Express** framework) and **Linux** administration.  
+I know **HTML**, **CSS** (+ **Sass** preprocessor) and **Git** well.  
 I’m working in a [**DreamDev.team**](https://github.com/dreamdevTeamX) and [**F5ociety**](https://github.com/f5ociety).
 
-Contact me: [**Site**](https://seryibaran.github.io/), [**E-Mail**](mailto:seryibaranminepy@yandex.ru)
+Contact me: [**Site**](https://seryibaran.github.io), [**E-Mail**](mailto:seryibaranminepy@yandex.ru)
 
 # Technologies and tools:
 <table style="border-size:0px">
