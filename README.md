@@ -1,5 +1,7 @@
 <h1 align="center">:wave: Hello!</h1>
 
+<p align="center"><img src="images/this-is-fine.gif" /></p>
+
 <h2 align="center">:smirk: About Me</h2>
 
 My name is **Ivan**. I'm **13** years old.
