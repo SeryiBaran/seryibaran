@@ -28,7 +28,8 @@ Contact me: [**Site**](https://seryibaran.github.io), [**E-Mail**](mailto:seryib
 <details>
   <summary><b>Click to see the statistics</b></summary>
 
-  [![SeryiBaran's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SeryiBaran)](https://github.com/anuraghazra/github-readme-stats)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
   [![](https://raw.githubusercontent.com/SeryiBaran/seryibaran/master/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
   [![](https://raw.githubusercontent.com/SeryiBaran/seryibaran/master/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
   [![](https://raw.githubusercontent.com/SeryiBaran/seryibaran/master/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
