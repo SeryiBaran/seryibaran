@@ -28,6 +28,7 @@ Contact me: [**Site**](https://seryibaran.github.io), [**E-Mail**](mailto:seryib
 <details>
   <summary><b>Click to see the statistics</b></summary>
 
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
