@@ -8,7 +8,7 @@ I’m working in a [**DreamDev.team**](https://github.com/dreamdevTeamX) and [**
 
 Contact me: [**Site**](https://seryibaran.github.io), [**E-Mail**](mailto:seryibaranminepy@yandex.ru)
 
-# Technologies and tools:
+# Technologies and tools
 <table style="border-size:0px">
   <tr>
     <td style="border: none;" width="90" align="center"><a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://cdn.iconscout.com/icon/free/png-64/html-1175208.png"></a>HTML</td>
@@ -25,9 +25,11 @@ Contact me: [**Site**](https://seryibaran.github.io), [**E-Mail**](mailto:seryib
 </table>
 
 # Statistics
-<details>
-  <summary><b>Click to see the statistics</b></summary>
 
+[![](https://raw.githubusercontent.com/SeryiBaran/seryibaran/master/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+<details>
+  <summary><b>Click to see additional statistics</b></summary>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
@@ -116,8 +118,5 @@ CSS                      3 repos             ██░░░░░░░░░�
 
  Last Updated on 18/05/2022 12:38:37 UTC
 <!--END_SECTION:waka-->
-  [![](https://raw.githubusercontent.com/SeryiBaran/seryibaran/master/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-  [![](https://raw.githubusercontent.com/SeryiBaran/seryibaran/master/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-  [![](https://raw.githubusercontent.com/SeryiBaran/seryibaran/master/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 </details>
