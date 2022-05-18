@@ -37,15 +37,15 @@ Contact me: [**:globe_with_meridians: Site**](https://seryibaran.github.io), [**
   <summary align="center"><h3>:point_right: Click to see additional statistics</h3></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%2037%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-56-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-82-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 347 Contributions in the Year 2022
  > 
-> 📦 256.2 kB Used in GitHub's Storage 
+> 📦 258.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -121,7 +121,7 @@ CSS                      3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/SeryiBaran/SeryiBaran/master/charts/bar_graph.png) 
 
 
- Last Updated on 18/05/2022 13:54:47 UTC
+ Last Updated on 18/05/2022 18:53:07 UTC
 <!--END_SECTION:waka-->
 
 </details>
