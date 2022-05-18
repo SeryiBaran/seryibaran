@@ -1,15 +1,18 @@
-# About Me
-My name is Ivan. I'm 13 years old.
+<h1 align="center">:wave: Hello!</h1>
+
+<h2 align="center">:smirk: About Me</h2>
+
+My name is **Ivan**. I'm **13** years old.
 
 I'm learning **Frontend** development, and going to learning **DevOps**.  
 Currently I'm studying **JavaScript** (+ **React** library), **TypeScript**, **Node.js** (+ **Express** framework) and **Linux** administration.  
 I know **HTML**, **CSS** (+ **Sass** preprocessor) and **Git** well.  
 I’m working in a [**DreamDev.team**](https://github.com/dreamdevTeamX) and [**F5ociety**](https://github.com/f5ociety).
 
-Contact me: [**Site**](https://seryibaran.github.io), [**E-Mail**](mailto:seryibaranminepy@yandex.ru)
+Contact me: [**:globe_with_meridians: Site**](https://seryibaran.github.io), [**:mailbox: E-Mail**](mailto:seryibaranminepy@yandex.ru)
 
-# Technologies and tools
-<table style="border-size:0px">
+<h2 align="center">:wrench: Technologies and tools</h2>
+<table style="border-size:0px" align="center">
   <tr>
     <td style="border: none;" width="90" align="center"><a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://cdn.iconscout.com/icon/free/png-64/html-1175208.png"></a>HTML</td>
     <td style="border: none;" width="90" align="center"><a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://cdn.iconscout.com/icon/free/png-64/css-1175237.png"></a>CSS</td>
@@ -24,12 +27,12 @@ Contact me: [**Site**](https://seryibaran.github.io), [**E-Mail**](mailto:seryib
   </tr>
 </table>
 
-# Statistics
+<h2 align="center">:bar_chart: Statistics</h2>
 
-[![](https://raw.githubusercontent.com/SeryiBaran/seryibaran/master/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<p align="center"><img src="https://raw.githubusercontent.com/SeryiBaran/seryibaran/master/profile-summary-card-output/monokai/0-profile-details.svg" /></p>
 
 <details>
-  <summary><b>Click to see additional statistics</b></summary>
+  <summary><b>:point_right: Click to see additional statistics</b></summary>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
