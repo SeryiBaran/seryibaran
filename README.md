@@ -34,7 +34,7 @@ Contact me: [**:globe_with_meridians: Site**](https://seryibaran.github.io), [**
 <p align="center"><img src="https://raw.githubusercontent.com/SeryiBaran/seryibaran/master/profile-summary-card-output/monokai/0-profile-details.svg" /></p>
 
 <details>
-  <summary><b>:point_right: Click to see additional statistics</b></summary>
+  <summary align="center"><h3>:point_right: Click to see additional statistics</h3></summary>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
