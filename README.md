@@ -36,15 +36,15 @@ Contact me: [**:globe_with_meridians: Site**](https://seryibaran.github.io), [**
   <summary align="center"><h3>:point_right: Click to see additional statistics</h3></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%2015%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-87-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-198-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 349 Contributions in the Year 2022
+> 🏆 355 Contributions in the Year 2022
  > 
-> 📦 258.7 kB Used in GitHub's Storage 
+> 📦 258.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -55,22 +55,22 @@ Contact me: [**:globe_with_meridians: Site**](https://seryibaran.github.io), [**
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    104 commits    █████░░░░░░░░░░░░░░░░░░░░   19.85% 
-🌆 Daytime    302 commits    ██████████████░░░░░░░░░░░   57.63% 
-🌃 Evening    118 commits    █████░░░░░░░░░░░░░░░░░░░░   22.52% 
+🌞 Morning    108 commits    █████░░░░░░░░░░░░░░░░░░░░   20.42% 
+🌆 Daytime    303 commits    ██████████████░░░░░░░░░░░   57.28% 
+🌃 Evening    118 commits    █████░░░░░░░░░░░░░░░░░░░░   22.31% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday       72 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.74% 
-Tuesday      65 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.4% 
-Wednesday    120 commits    █████░░░░░░░░░░░░░░░░░░░░   22.9% 
-Thursday     42 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.02% 
-Friday       97 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.51% 
-Saturday     69 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.17% 
-Sunday       59 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.26%
+Monday       72 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.61% 
+Tuesday      65 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.29% 
+Wednesday    120 commits    █████░░░░░░░░░░░░░░░░░░░░   22.68% 
+Thursday     42 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.94% 
+Friday       97 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.34% 
+Saturday     74 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.99% 
+Sunday       59 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.15%
 
 ```
 
@@ -120,7 +120,7 @@ CSS                      3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/SeryiBaran/SeryiBaran/master/charts/bar_graph.png) 
 
 
- Last Updated on 21/05/2022 06:35:01 UTC
+ Last Updated on 21/05/2022 12:31:48 UTC
 <!--END_SECTION:waka-->
 
 </details>
