@@ -38,7 +38,7 @@ Contact me: [**:globe_with_meridians: Site**](https://seryibaran.github.io), [**
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-202-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-201-blue)
 
 **🐱 My GitHub Data** 
 
@@ -120,7 +120,7 @@ CSS                      3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/SeryiBaran/SeryiBaran/master/charts/bar_graph.png) 
 
 
- Last Updated on 23/05/2022 12:36:30 UTC
+ Last Updated on 24/05/2022 12:38:56 UTC
 <!--END_SECTION:waka-->
 
 </details>
