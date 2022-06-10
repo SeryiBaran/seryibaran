@@ -81,16 +81,20 @@ Sunday       59 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     8 mins              ████████████████████░░░░░   80.0% 
+Markdown                 1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   10.6% 
+SCSS                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   8.72% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.68%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  10 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+testvite                 9 mins              ██████████████████████░░░   89.4% 
+Unknown Project          1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   10.6%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    10 mins             █████████████████████████   100.0%
 
 ```
 
@@ -111,7 +115,7 @@ CSS                      3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/SeryiBaran/SeryiBaran/master/charts/bar_graph.png) 
 
 
- Last Updated on 09/06/2022 16:37:28 UTC
+ Last Updated on 10/06/2022 16:38:48 UTC
 <!--END_SECTION:waka-->
 
 </details>
