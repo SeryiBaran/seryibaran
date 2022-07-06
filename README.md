@@ -32,6 +32,7 @@ const tech = [
   "Bash",
   "GitHub Actions",
   "VSCode",
+  "Terminal",
 ];
 ```
 
