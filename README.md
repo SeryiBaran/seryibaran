@@ -36,13 +36,33 @@ const tech = [
 ];
 ```
 
-<h2 align="center">:bar_chart: Statistics</h2>
+<h2 align="center">:bar_chart: Basic Statistics</h2>
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/SeryiBaran/seryibaran/master/profile-summary-card-output/monokai/0-profile-details.svg" />
-
+  <img src="https://raw.githubusercontent.com/SeryiBaran/seryibaran/master/profile-summary-card-output/monokai/0-profile-details.svg" />
 </div>
+
+<h2 align="center">:package: Pinned Repositories</h2>
+
+<div align="center">
+  <a href="https://github.com/SeryiBaran/seryibaran.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SeryiBaran&repo=seryibaran.github.io" /></a>
+  <a href="https://github.com/SeryiBaran/useUseful.js"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SeryiBaran&repo=useUseful.js" /></a>
+  <a href="https://github.com/SeryiBaran/Standard.css"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SeryiBaran&repo=Standard.css" /></a>
+  <a href="https://github.com/SeryiBaran/dotfiles"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SeryiBaran&repo=dotfiles" /></a>
+  <a href="https://github.com/SeryiBaran/tools"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SeryiBaran&repo=tools" /></a>
+  <a href="https://github.com/SeryiBaran/ddtReactCourse"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SeryiBaran&repo=ddtReactCourse" /></a>
+  <a href="https://github.com/SeryiBaran/ivan-pylight-shot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SeryiBaran&repo=ivan-pylight-shot" /></a>
+  <a href="https://github.com/SeryiBaran/mock-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SeryiBaran&repo=mock-api" /></a>
+  <a href="https://github.com/SeryiBaran/learn-web"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SeryiBaran&repo=learn-web" /></a>
+</div>
+
+<h2 align="center">:package: Pinned Forks</h2>
+
+<div align="center">
+  <a href="https://github.com/Erghel/Answerius"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Erghel&repo=Answerius" /></a>
+</div>
+
+<h2 align="center">:bar_chart: WakaTime Statistics</h2>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-48%20hrs%2023%20mins-blue)
@@ -131,27 +151,3 @@ CSS                      3 repos             ██░░░░░░░░░�
 
  Last Updated on 06/07/2022 16:40:16 UTC
 <!--END_SECTION:waka-->
-
-<h2 align="center">:package: Pinned Repositories</h2>
-
-<div align="center">
-
-<a href="https://github.com/SeryiBaran/seryibaran.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SeryiBaran&repo=seryibaran.github.io" /></a>
-<a href="https://github.com/SeryiBaran/useUseful.js"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SeryiBaran&repo=useUseful.js" /></a>
-<a href="https://github.com/SeryiBaran/Standard.css"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SeryiBaran&repo=Standard.css" /></a>
-<a href="https://github.com/SeryiBaran/dotfiles"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SeryiBaran&repo=dotfiles" /></a>
-<a href="https://github.com/SeryiBaran/tools"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SeryiBaran&repo=tools" /></a>
-<a href="https://github.com/SeryiBaran/ddtReactCourse"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SeryiBaran&repo=ddtReactCourse" /></a>
-<a href="https://github.com/SeryiBaran/ivan-pylight-shot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SeryiBaran&repo=ivan-pylight-shot" /></a>
-<a href="https://github.com/SeryiBaran/mock-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SeryiBaran&repo=mock-api" /></a>
-<a href="https://github.com/SeryiBaran/learn-web"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SeryiBaran&repo=learn-web" /></a>
-
-</div>
-
-<h2 align="center">:package: Pinned Forks</h2>
-
-<div align="center">
-
-<a href="https://github.com/Erghel/Answerius"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Erghel&repo=Answerius" /></a>
-
-</div>
