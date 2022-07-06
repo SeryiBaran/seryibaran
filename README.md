@@ -27,6 +27,7 @@ const tech = [
   "Git",
   "Docker",
   "Linux",
+  "Bash",
 ];
 ```
 
