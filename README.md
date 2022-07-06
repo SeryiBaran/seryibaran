@@ -28,6 +28,7 @@ const tech = [
   "Docker",
   "Linux",
   "Bash",
+  "GitHub Actions",
 ];
 ```
 
