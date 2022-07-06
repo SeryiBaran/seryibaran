@@ -136,7 +136,7 @@ Last Updated on 06/07/2022 08:56:07 UTC
 
 </details>
 
-<h2 align="center">:package: Top Repositories</h2>
+<h2 align="center">:package: Pinned Repositories</h2>
 
 <div align="center">
 
@@ -149,6 +149,13 @@ Last Updated on 06/07/2022 08:56:07 UTC
 [![](https://github-readme-stats.vercel.app/api/pin/?username=SeryiBaran&repo=ivan-pylight-shot)](https://github.com/SeryiBaran/ivan-pylight-shot)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=SeryiBaran&repo=mock-api)](https://github.com/SeryiBaran/mock-api)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=SeryiBaran&repo=learn-web)](https://github.com/SeryiBaran/learn-web)
+
+</div>
+
+<h2 align="center">:package: Pinned Forks</h2>
+
+<div align="center">
+
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Erghel&repo=Answerius)](https://github.com/Erghel/Answerius)
 
 </div>
