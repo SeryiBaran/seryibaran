@@ -10,7 +10,9 @@ I'm learning **Frontend** development, and going to learning **DevOps**.
 Currently I'm studying **JavaScript** (+ **React** library), **TypeScript**, **Node.js** (+ **Express** framework) and **Linux** administration.  
 I know **HTML**, **CSS** (+ **Sass** preprocessor) and **Git** well.
 
-Contact me: [**:globe_with_meridians: Site**](https://seryibaran.github.io), [**:mailbox: E-Mail**](mailto:seryibaranminepy@yandex.ru)
+Contact me: [**:globe_with_meridians: Site (RUS)**](https://seryibaran.github.io), [**:mailbox: E-Mail**](mailto:seryibaranminepy@yandex.ru)
+
+You will find all my contacts on my website on page [**:globe_with_meridians: Contacts (RUS)**](https://seryibaran.github.io/contacts).
 
 <h2 align="center">:wrench: Technologies and tools</h2>
 
@@ -33,18 +35,13 @@ const tech = [
 ];
 ```
 
-<h2 align="center"> :globe_with_meridians: Other Details and Portfolio - on my <a href="https://seryibaran.github.io">Website</a></h2>
-
 <h2 align="center">:bar_chart: Statistics</h2>
 
 <div align="center">
 
-![](https://raw.githubusercontent.com/SeryiBaran/seryibaran/master/profile-summary-card-output/monokai/0-profile-details.svg)
+<img src="https://raw.githubusercontent.com/SeryiBaran/seryibaran/master/profile-summary-card-output/monokai/0-profile-details.svg" />
 
 </div>
-
-<details>
-  <summary align="center"><h3>:point_right: <b>Click to see full statistics</b></h3></summary>
 
 <!--START_SECTION:waka-->
 
@@ -134,21 +131,19 @@ Last Updated on 06/07/2022 08:56:07 UTC
 
 <!--END_SECTION:waka-->
 
-</details>
-
 <h2 align="center">:package: Pinned Repositories</h2>
 
 <div align="center">
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=SeryiBaran&repo=seryibaran.github.io)](https://github.com/SeryiBaran/seryibaran.github.io)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=SeryiBaran&repo=useUseful.js)](https://github.com/SeryiBaran/useUseful.js)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=SeryiBaran&repo=Standard.css)](https://github.com/SeryiBaran/Standard.css)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=SeryiBaran&repo=dotfiles)](https://github.com/SeryiBaran/dotfiles)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=SeryiBaran&repo=tools)](https://github.com/SeryiBaran/tools)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=SeryiBaran&repo=ddtReactCourse)](https://github.com/SeryiBaran/ddtReactCourse)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=SeryiBaran&repo=ivan-pylight-shot)](https://github.com/SeryiBaran/ivan-pylight-shot)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=SeryiBaran&repo=mock-api)](https://github.com/SeryiBaran/mock-api)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=SeryiBaran&repo=learn-web)](https://github.com/SeryiBaran/learn-web)
+<a href="https://github.com/SeryiBaran/seryibaran.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SeryiBaran&repo=seryibaran.github.io" /></a>
+<a href="https://github.com/SeryiBaran/useUseful.js"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SeryiBaran&repo=useUseful.js" /></a>
+<a href="https://github.com/SeryiBaran/Standard.css"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SeryiBaran&repo=Standard.css" /></a>
+<a href="https://github.com/SeryiBaran/dotfiles"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SeryiBaran&repo=dotfiles" /></a>
+<a href="https://github.com/SeryiBaran/tools"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SeryiBaran&repo=tools" /></a>
+<a href="https://github.com/SeryiBaran/ddtReactCourse"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SeryiBaran&repo=ddtReactCourse" /></a>
+<a href="https://github.com/SeryiBaran/ivan-pylight-shot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SeryiBaran&repo=ivan-pylight-shot" /></a>
+<a href="https://github.com/SeryiBaran/mock-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SeryiBaran&repo=mock-api" /></a>
+<a href="https://github.com/SeryiBaran/learn-web"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SeryiBaran&repo=learn-web" /></a>
 
 </div>
 
@@ -156,6 +151,6 @@ Last Updated on 06/07/2022 08:56:07 UTC
 
 <div align="center">
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Erghel&repo=Answerius)](https://github.com/Erghel/Answerius)
+<a href="https://github.com/Erghel/Answerius"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Erghel&repo=Answerius" /></a>
 
 </div>
