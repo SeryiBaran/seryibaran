@@ -25,6 +25,8 @@ const tech = [
   "Node.js",
   "Express",
   "React.js",
+  "TypeScript",
+  "Jekyll",
   "Python",
   "Git",
   "Docker",
@@ -33,6 +35,7 @@ const tech = [
   "GitHub Actions",
   "VSCode",
   "Terminal",
+  "Servers",
 ];
 ```
 
