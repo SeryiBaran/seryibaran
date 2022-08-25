@@ -51,6 +51,7 @@ const tech = [
   <a href="https://github.com/SeryiBaran/seryibaran.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SeryiBaran&repo=seryibaran.github.io" /></a>
   <a href="https://github.com/SeryiBaran/useUseful.js"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SeryiBaran&repo=useUseful.js" /></a>
   <a href="https://github.com/SeryiBaran/Standard.css"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SeryiBaran&repo=Standard.css" /></a>
+  <a href="https://github.com/SeryiBaran/tg-it-chats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SeryiBaran&repo=tg-it-chats" /></a>
   <a href="https://github.com/SeryiBaran/dotfiles"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SeryiBaran&repo=dotfiles" /></a>
   <a href="https://github.com/SeryiBaran/tools"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SeryiBaran&repo=tools" /></a>
   <a href="https://github.com/SeryiBaran/ddtReactCourse"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SeryiBaran&repo=ddtReactCourse" /></a>
