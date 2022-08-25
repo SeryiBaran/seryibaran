@@ -39,7 +39,7 @@ const tech = [
 ];
 ```
 
-<h2 align="center">:bar_chart: Basic Statistics</h2>
+<h2 align="center">:bar_chart: Statistics</h2>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/SeryiBaran/seryibaran/master/profile-summary-card-output/monokai/0-profile-details.svg" />
@@ -64,9 +64,11 @@ const tech = [
 
 <div align="center">
   <a href="https://github.com/Erghel/Answerius"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Erghel&repo=Answerius" /></a>
+  <a href="https://github.com/f5ociety/Trydex"><img src="https://github-readme-stats.vercel.app/api/pin/?username=f5ociety&repo=Trydex" /></a>
 </div>
 
-<h2 align="center">:bar_chart: WakaTime Statistics</h2>
+<details>
+  <summary align="center"><h2>:bar_chart: WakaTime Statistics</h2></summary>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-84%20hrs%2019%20mins-blue)
@@ -155,3 +157,5 @@ CSS                      3 repos             █░░░░░░░░░░�
 
  Last Updated on 23/08/2022 12:43:00 UTC
 <!--END_SECTION:waka-->
+
+</details>
