@@ -1,33 +1,32 @@
 <h1 align="center">:wave: Hello!</h1>
 
-My name is **Ivan**. I'm **13** years old.
+My name is **Ivan**, I'm **13** years old.
 
-I'm learning **Frontend** development, and going to learning **DevOps**.  
-Currently I'm studying **JavaScript** (+ **React** library), **TypeScript**, **Node.js** (+ **Express** framework) and **Linux** administration.  
-I know **HTML**, **CSS** (+ **Sass** preprocessor) and **Git** well.
+Currently I'm learning **Frontend** development, but want to become a **Full Stack** + **DevOps**
 
 Contact me: [**:globe_with_meridians: Site (RUS)**](https://seryibaran.github.io), [**:mailbox: E-Mail**](mailto:seryibaranminepy@yandex.ru)
 
 You will find all my contacts on my website on page [**:globe_with_meridians: Contacts (RUS)**](https://seryibaran.github.io/contacts).
 
-<h2 align="center">:wrench: Technologies and tools</h2>
+<h2 align="center">:wrench: Technologies, tools and skills</h2>
 
 ```js
 const tech = [
+  "Git",
   "HTML",
   "CSS",
-  "Sass",
+  "Sass/SCSS",
   "JavaScript",
+  "TypeScript",
   "Node.js",
   "Express",
   "React.js",
-  "TypeScript",
   "Jekyll",
   "Python",
-  "Git",
   "Docker",
   "Linux",
   "Bash",
+  "Zsh",
   "GitHub Actions",
   "VSCode",
   "Terminal",
