@@ -51,6 +51,8 @@ const tech = [
   <a href="https://github.com/SeryiBaran/ivan-pylight-shot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SeryiBaran&repo=ivan-pylight-shot" /></a>
   <a href="https://github.com/SeryiBaran/mock-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SeryiBaran&repo=mock-api" /></a>
   <a href="https://github.com/SeryiBaran/learn-web"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SeryiBaran&repo=learn-web" /></a>
+  <a href="https://github.com/SeryiBaran/todo-vanilla"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SeryiBaran&repo=todo-vanilla" /></a>
+  <a href="https://github.com/SeryiBaran/todo-react"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SeryiBaran&repo=todo-react" /></a>
 </div>
 
 <h2 align="center">:package: Pinned Forks</h2>
