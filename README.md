@@ -17,8 +17,6 @@ const tech = [
   "CSS",
   "Sass/SCSS",
   "JavaScript",
-  "TypeScript",
-  "Node.js",
   "React.js",
   "GitHub Actions",
   "Terminal",
