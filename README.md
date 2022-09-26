@@ -2,7 +2,7 @@
 
 My name is **Ivan**, I'm **13** years old.
 
-Currently I'm learning **Frontend** development, but want to become a **Full Stack** + **DevOps**
+Currently I'm learning **Frontend** development.
 
 Contact me: [**:globe_with_meridians: Site (RUS)**](https://seryibaran.github.io), [**:mailbox: E-Mail**](mailto:seryibaranminepy@yandex.ru)
 
@@ -20,15 +20,8 @@ const tech = [
   "TypeScript",
   "Node.js",
   "React.js",
-  "Jekyll",
-  "Python",
-  "Docker",
-  "Linux",
-  "Scripts",
   "GitHub Actions",
-  "VSCode",
   "Terminal",
-  "Servers",
 ];
 ```
 
