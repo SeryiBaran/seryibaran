@@ -1,6 +1,6 @@
 <h1 align="center">:wave: Hello!</h1>
 
-My name is **Ivan**, I'm **13** years old and I am a **Frontend developer**.
+My name is **Ivan**, I'm **14** years old and I am a **Frontend developer**.
 
 Contact me: [**:globe_with_meridians: Site (RUS)**](https://seryibaran.github.io), [**:mailbox: E-Mail**](mailto:seryibaranminepy@yandex.ru)
 <h2 align="center">:wrench: Technologies, tools and skills</h2>
