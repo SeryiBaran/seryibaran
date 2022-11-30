@@ -1,6 +1,23 @@
 <h1 align="center">:wave: Привет!</h1>
 
-Вся информация обо мне теперь **только** на [**:globe_with_meridians: моём сайте**](https://seryibaran.github.io/about).
+Учусь Frontend разработке, интересуюсь Linux
+
+Готов принимать легкие заказы (что-то доделать, поправить).
+
+Моё портфолио находится на сайте, на странице [Портфолио](https://seryibaran.github.io/portfolio).
+
+Для связи пишите в личные сообщения в Telegram.
+
+<h1 align="center">Технологии, языки и инструменты</h1>
+
+- [HTML](https://wikipedia.org/wiki/HTML)
+- [CSS](https://wikipedia.org/wiki/CSS)
+- [Sass/SCSS](https://sass-lang.com)
+- [JavaScript](https://wikipedia.org/wiki/JavaScript)
+- [TypeScript](https://www.typescriptlang.org)
+- [React.js](https://reactjs.org)
+- [Effector](https://effector.dev)
+- [Git](https://git-scm.com)
 
 <h2 align="center">:bar_chart: Статистика</h2>
 
