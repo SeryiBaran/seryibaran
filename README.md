@@ -15,8 +15,8 @@
 - [Sass/SCSS](https://sass-lang.com)
 - [JavaScript](https://wikipedia.org/wiki/JavaScript)
 - [TypeScript](https://www.typescriptlang.org)
+- [Vue.js](https://reactjs.org)
 - [React.js](https://reactjs.org)
-- [Effector](https://effector.dev)
 - [Git](https://git-scm.com)
 
 <h2 align="center">:bar_chart: Статистика</h2>
