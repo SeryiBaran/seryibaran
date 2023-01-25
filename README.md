@@ -15,7 +15,7 @@
 - [Sass/SCSS](https://sass-lang.com)
 - [JavaScript](https://wikipedia.org/wiki/JavaScript)
 - [TypeScript](https://www.typescriptlang.org)
-- [Vue.js](https://reactjs.org)
+- [Vue.js](https://vuejs.org)
 - [React.js](https://reactjs.org)
 - [Git](https://git-scm.com)
 
