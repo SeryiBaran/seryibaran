@@ -1,26 +1,24 @@
-<h1 align="center">:wave: Привет!</h1>
+# SeryiBaran
 
-Учусь Frontend разработке, интересуюсь Linux
+Учусь Frontend разработке.
 
-Готов принимать легкие заказы (что-то доделать, поправить).
+Для связи пишите в личные сообщения в Telegram ([Контакты](https://seryibaran.github.io/contacts)).
 
-Моё портфолио находится на сайте, на странице [Портфолио](https://seryibaran.github.io/portfolio).
+## :hammer_and_wrench: Технологии и инструменты
 
-Для связи пишите в личные сообщения в Telegram.
+- HTML
+- CSS, Sass/SCSS, Tailwind
+- JavaScript/TypeScript
+- Vue.js
+- Git
 
-<h1 align="center">Технологии, языки и инструменты</h1>
+## :briefcase: Портфолио
 
-- [HTML](https://wikipedia.org/wiki/HTML)
-- [CSS](https://wikipedia.org/wiki/CSS)
-- [Sass/SCSS](https://sass-lang.com)
-- [JavaScript](https://wikipedia.org/wiki/JavaScript)
-- [TypeScript](https://www.typescriptlang.org)
-- [Vue.js](https://vuejs.org)
-- [React.js](https://reactjs.org)
-- [Git](https://git-scm.com)
+- [Макет "Prechu"](https://github.com/SeryiBaran/maket-prechu)
+- [Макет "Agency"](https://github.com/SeryiBaran/maket-agency)
+- [Todo на Vue](https://github.com/SeryiBaran/todo-vue)
+- [Чат на Vue + Express.js + Socket.io](https://github.com/SeryiBaran/veschat)
 
-<h2 align="center">:bar_chart: Статистика</h2>
+## :bar_chart: Статистика
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SeryiBaran/seryibaran/master/profile-summary-card-output/monokai/0-profile-details.svg" />
-</div>
+![Статистика profile-summary-cards](https://raw.githubusercontent.com/SeryiBaran/seryibaran/master/profile-summary-card-output/monokai/0-profile-details.svg)
