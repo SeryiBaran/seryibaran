@@ -4,7 +4,7 @@
 
 Для связи пишите в личные сообщения в Telegram ([Контакты](https://seryibaran.github.io/contacts)).
 
-## :hammer_and_wrench: Технологии и инструменты
+## :hammer_and_wrench: Что умею
 
 - HTML
 - CSS, Sass/SCSS, Tailwind
@@ -12,10 +12,17 @@
 - Vue.js
 - React.js
 - Git
+- Node.js
+- Astro
+- Jekyll
+- Jquery
+- Linux
+- Express.js
+- Создание расширений для браузеров (Manifest 2 + Немного Manifest 3)
+- Работа с REST API (Mockapi, GitLab)
 
 ## :briefcase: Портфолио
 
-- [Макет "Prechu"](https://github.com/SeryiBaran/maket-prechu)
 - [Макет "Agency"](https://github.com/SeryiBaran/maket-agency)
 - [Todo на Vue](https://github.com/SeryiBaran/todo-vue)
 - [Чат на Vue + Express.js + Socket.io](https://github.com/SeryiBaran/veschat)
