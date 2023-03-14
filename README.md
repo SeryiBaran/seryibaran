@@ -8,16 +8,14 @@
 
 - HTML
 - CSS, Sass/SCSS, Tailwind
-- JavaScript/TypeScript
-- Vue.js
-- React.js
+- JavaScript, TypeScript (+ библиотеки)
+- Vue.js, немного React.js
 - Git
 - Node.js
-- Astro
-- Jekyll
-- Jquery
+- Astro, Jekyll
 - Linux
-- Express.js
+- Nest.js, Express.js
+- Socket.io
 - Создание расширений для браузеров (Manifest 2 + Немного Manifest 3)
 - Работа с REST API (Mockapi, GitLab)
 
