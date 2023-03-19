@@ -1,6 +1,6 @@
 # SeryiBaran
 
-Учусь Frontend разработке.
+Начинающий Frontend (+ немного backend) разработчик.
 
 Для связи пишите в личные сообщения в Telegram ([Контакты](https://seryibaran.github.io/contacts)).
 
