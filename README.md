@@ -14,7 +14,7 @@
 - Node.js
 - Astro, Jekyll
 - Linux
-- Nest.js, Express.js
+- Express.js
 - Socket.io
 - Создание расширений для браузеров (Manifest 2 + Немного Manifest 3)
 - Работа с REST API (Mockapi, GitLab)
@@ -23,7 +23,6 @@
 
 - [Макет "Agency"](https://github.com/SeryiBaran/maket-agency)
 - [Todo на Vue](https://github.com/SeryiBaran/todo-vue)
-- [Чат на Vue + Express.js + Socket.io](https://github.com/SeryiBaran/veschat)
 - [Сайт для проекта Мост Свободы](https://github.com/f5ociety/Bridge-of-Liberty)
 
 ## :bar_chart: Статистика
