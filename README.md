@@ -24,6 +24,7 @@
 - [Макет "Agency"](https://github.com/SeryiBaran/maket-agency)
 - [Todo на Vue](https://github.com/SeryiBaran/todo-vue)
 - [Сайт для проекта Мост Свободы](https://github.com/f5ociety/Bridge-of-Liberty)
+- [Сайт для проекта Privacy-Search-Companion](https://github.com/Erghel/Privacy-Search-Companion)
 
 ## :bar_chart: Статистика
 
