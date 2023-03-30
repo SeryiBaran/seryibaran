@@ -9,11 +9,13 @@
 ## 🤹‍♂️ Что я умею
 
 - HTML
-- CSS, Sass/SCSS, UnoCSS, Tailwind
+- CSS, Sass/SCSS, UnoCSS, Tailwind CSS
 - JavaScript, TypeScript
 - Vue.js, немного React.js
-- Git, Bash
+- Vite.js
+- Rollup
 - Node.js
+- Git, Bash
 - Astro, Jekyll
 - Socket.io
 - Создание расширений для браузеров (Manifest 2/3)
