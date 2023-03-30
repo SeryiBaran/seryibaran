@@ -1,24 +1,25 @@
 # SeryiBaran
 
-Начинающий Frontend (+ немного backend) разработчик.
+## 🤔 Хто я
+
+Начинающий Frontend разработчик.
 
 Для связи пишите в личные сообщения в Telegram ([Контакты](https://seryibaran.github.io/contacts)).
 
-## :hammer_and_wrench: Что умею
+## 🤹‍♂️ Что я умею
 
 - HTML
 - CSS, Sass/SCSS, UnoCSS, Tailwind
-- JavaScript, TypeScript (+ библиотеки)
+- JavaScript, TypeScript
 - Vue.js, немного React.js
-- Git
+- Git, Bash
 - Node.js
 - Astro, Jekyll
-- Linux
 - Socket.io
 - Создание расширений для браузеров (Manifest 2/3)
 - Работа с REST API (Mockapi, GitLab)
 
-## :briefcase: Портфолио
+## 💼 Что я ~~на~~делал
 
 - [Макет "Agency"](https://github.com/SeryiBaran/maket-agency)
 - [Todo на Vue](https://github.com/SeryiBaran/todo-vue)
@@ -26,6 +27,6 @@
 - [Расширение Privacy Search Companion](https://github.com/Erghel/Privacy-Search-Companion)
 - [Сайт для проекта Privacy Search Companion](https://github.com/Erghel/Privacy-Search-Companion)
 
-## :bar_chart: Статистика
+## 📊 ~~Что я~~ Статистика
 
 ![Статистика profile-summary-cards](https://raw.githubusercontent.com/SeryiBaran/seryibaran/master/profile-summary-card-output/monokai/0-profile-details.svg)
