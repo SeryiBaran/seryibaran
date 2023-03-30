@@ -7,16 +7,15 @@
 ## :hammer_and_wrench: Что умею
 
 - HTML
-- CSS, Sass/SCSS, Tailwind
+- CSS, Sass/SCSS, UnoCSS, Tailwind
 - JavaScript, TypeScript (+ библиотеки)
 - Vue.js, немного React.js
 - Git
 - Node.js
 - Astro, Jekyll
 - Linux
-- Express.js
 - Socket.io
-- Создание расширений для браузеров (Manifest 2 + Немного Manifest 3)
+- Создание расширений для браузеров (Manifest 2/3)
 - Работа с REST API (Mockapi, GitLab)
 
 ## :briefcase: Портфолио
@@ -24,7 +23,8 @@
 - [Макет "Agency"](https://github.com/SeryiBaran/maket-agency)
 - [Todo на Vue](https://github.com/SeryiBaran/todo-vue)
 - [Сайт для проекта Мост Свободы](https://github.com/f5ociety/Bridge-of-Liberty)
-- [Сайт для проекта Privacy-Search-Companion](https://github.com/Erghel/Privacy-Search-Companion)
+- [Расширение Privacy Search Companion](https://github.com/Erghel/Privacy-Search-Companion)
+- [Сайт для проекта Privacy Search Companion](https://github.com/Erghel/Privacy-Search-Companion)
 
 ## :bar_chart: Статистика
 
