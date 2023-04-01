@@ -27,7 +27,7 @@
 - [Todo на Vue](https://github.com/SeryiBaran/todo-vue)
 - [Сайт для проекта Мост Свободы](https://github.com/f5ociety/Bridge-of-Liberty)
 - [Расширение Privacy Search Companion](https://github.com/Erghel/Privacy-Search-Companion)
-- [Сайт для проекта Privacy Search Companion](https://github.com/Erghel/Privacy-Search-Companion)
+- [Сайт для проекта Privacy Search Companion](https://github.com/SeryiBaran/PSC-site)
 
 ## 📊 ~~Что я~~ Статистика
 
