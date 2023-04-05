@@ -1,4 +1,4 @@
-# SeryiBaran
+# SeryiBaran 🐏
 
 ## 🤔 Хто я
 
@@ -8,18 +8,19 @@
 
 ## 🤹‍♂️ Что я умею
 
-- HTML
-- CSS, Sass/SCSS, UnoCSS, Tailwind CSS
-- JavaScript, TypeScript
-- Vue.js, немного React.js
-- Vite.js
-- Rollup
-- Node.js
-- Git, Bash
-- Astro, Jekyll
-- Socket.io
-- Создание расширений для браузеров (Manifest 2/3)
-- Работа с REST API (Mockapi, GitLab)
+- 📋 HTML, CSS, Sass/SCSS, Tailwind CSS
+- 💃 JavaScript, TypeScript
+- 💚 Vue.js + Pinia
+- ⚛️ немного React.js
+- ☄️ немного Effector
+- 📦 Vite.js, Rollup
+- 💚 Node.js
+- 💻 Git, Bash
+- 🖨 Astro, Jekyll
+- ⚒ Создание расширений для браузеров (Manifest 2/3)
+- 🤖 Создание простых Telegram ботов (GrammY.js)
+- 🧩 Работа с REST API (Mockapi, GitLab)
+- ♟ Шахматы
 
 ## 💼 Что я ~~на~~делал
 
