@@ -9,11 +9,12 @@
 ## 🤹‍♂️ Что я умею
 
 - 🦴 HTML
-- 🎨 CSS, Sass/SCSS, Tailwind CSS
+- 🎨 CSS, Sass, PostCSS, Tailwind CSS
 - 🏃‍♂️ JavaScript, TypeScript
 - 🔋 Vue.js + Pinia
 - ⚛️ немного React.js
 - ☄️ немного Effector
+- 👮‍♂️ ESLint, Prettier, Stylelint
 - 📦 Vite.js, Rollup
 - 🟩 Node.js
 - 💻 Git, Bash
