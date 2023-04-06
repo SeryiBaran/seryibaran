@@ -29,6 +29,7 @@
 - [Сайт для проекта Мост Свободы](https://github.com/f5ociety/Bridge-of-Liberty)
 - [Расширение Privacy Search Companion](https://github.com/Erghel/Privacy-Search-Companion)
 - [Сайт для проекта Privacy Search Companion](https://github.com/SeryiBaran/PSC-site)
+- [Игра-кликер в виде Telegram бота](https://github.com/SeryiBaran/telegram-clicker)
 
 ## 📊 ~~Что я~~ Статистика
 
