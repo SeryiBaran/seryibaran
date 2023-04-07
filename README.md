@@ -16,6 +16,7 @@
 - ☄️ немного Effector
 - 👮‍♂️ ESLint, Prettier, Stylelint
 - 📦 Vite.js, Rollup
+- 🧪 Vitest
 - 🟩 Node.js
 - 💻 Git, Bash
 - 🖨 Astro, Jekyll
