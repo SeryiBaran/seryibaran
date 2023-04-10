@@ -15,7 +15,7 @@
 - ⚛️ немного React.js
 - 👮‍♂️ ESLint, Prettier, Stylelint
 - 📦 Vite.js, Rollup
-- 🧪 Vitest/Jest
+- 🧪 Vitest, Jest
 - 🟩 Node.js
 - 💻 Git, Bash
 - 🖨 Astro, Jekyll
