@@ -16,8 +16,7 @@
 - 👮‍♂️ ESLint, Prettier, Stylelint
 - 📦 Vite.js, Rollup, Unbuild
 - 🧪 Vitest, Jest
-- 🟩 Node.js
-- 💻 Git, Bash
+- 💻 Git
 - 🖨 Astro, Jekyll
 - 🧩 Создание расширений для браузеров (Manifest 2/3)
 - 🤖 Создание Telegram ботов (GrammY.js)
