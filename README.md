@@ -14,7 +14,7 @@
 - 💚 Vue.js + Pinia
 - ⚛️ немного React.js
 - 👮‍♂️ ESLint, Prettier, Stylelint
-- 📦 Vite.js, Rollup
+- 📦 Vite.js, Rollup, Unbuild
 - 🧪 Vitest, Jest
 - 🟩 Node.js
 - 💻 Git, Bash
@@ -35,7 +35,6 @@
 
 ### 📦 Шаблоны для проектов
 - 📦 [Стартовый шаблон Vue + TypeScript](https://github.com/SeryiBaran/tailvue-starter)
-- 📦 [Стартовый шаблон Rollup + TypeScript](https://github.com/SeryiBaran/simple-rollup-node-starter)
 
 ## 📊 ~~Что я~~ Статистика
 
