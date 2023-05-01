@@ -21,6 +21,7 @@
 ## 💼 Что я ~~на~~делал
 
 - 🖼 [Макет "Agency"](https://github.com/SeryiBaran/maket-agency)
+- 🐹 [Пародия на Twitter - Telehumpter](https://github.com/SeryiBaran/telehumpter)
 - ✅ [Todo на Vue](https://github.com/SeryiBaran/todo-vue)
 - ℹ️ [Сайт для проекта Мост Свободы](https://github.com/f5ociety/Bridge-of-Liberty)
 - 🧩 [Расширение Privacy Search Companion](https://github.com/Erghel/Privacy-Search-Companion)
