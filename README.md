@@ -27,7 +27,6 @@
 - ℹ️ [Сайт для проекта Privacy Search Companion](https://github.com/SeryiBaran/PSC-site)
 - 👆 [Игра-кликер в виде Telegram бота](https://github.com/SeryiBaran/telegram-clicker)
 - 🌐 [Свой сайт](https://github.com/SeryiBaran/seryibaran.github.io)
-- 🧩 [I18n плагин для Vue 3](https://github.com/SeryiBaran/iva18n)
 - 🥴 [Генератор немного неоптимизированного калькулятора](https://github.com/SeryiBaran/generated-calc)
 - 📦 [Стартовый шаблон Vue + TypeScript](https://github.com/SeryiBaran/tailvue-starter)
 
