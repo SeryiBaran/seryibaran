@@ -19,6 +19,7 @@
 
 ## 💼 Что я ~~на~~делал
 
+- 🖼 [Макет "Web Development Project"](https://github.com/SeryiBaran/maket-web-dev-project)
 - 🖼 [Макет "Agency"](https://github.com/SeryiBaran/maket-agency)
 - 🐹 [Пародия на Twitter - Telehumpter](https://github.com/SeryiBaran/telehumpter)
 - ✅ [Todo на Vue](https://github.com/SeryiBaran/todo-vue)
