@@ -30,6 +30,9 @@
 - 🌐 [Свой сайт](https://github.com/SeryiBaran/seryibaran.github.io)
 - 🥴 [Генератор немного неоптимизированного калькулятора](https://github.com/SeryiBaran/generated-calc)
 - 📦 [Стартовый шаблон Vue + TypeScript](https://github.com/SeryiBaran/tailvue-starter)
+- [Модули для PowerShell](https://www.powershellgallery.com/profiles/SeryiBaran):
+  - 📦 [PublishProject](https://www.powershellgallery.com/packages/PublishProject/)
+  - 📦 [QuickIP](https://www.powershellgallery.com/packages/QuickIP/)
 
 И ещё много интересного/неинтересного [тут](https://github.com/SeryiBaran?tab=repositories).
 
