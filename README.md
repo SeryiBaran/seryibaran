@@ -24,13 +24,15 @@
 - 🐹 [Пародия на Twitter - Telehumpter](https://github.com/SeryiBaran/telehumpter)
 - ✅ [Todo на Vue](https://github.com/SeryiBaran/todo-vue)
 - ℹ️ [Сайт для проекта Мост Свободы](https://github.com/f5ociety/Bridge-of-Liberty)
-- 🧩 [Расширение Privacy Search Companion](https://github.com/Erghel/Privacy-Search-Companion)
+- 🧩 [Firefox расширение Privacy Search Companion](https://github.com/Erghel/Privacy-Search-Companion)
 - ℹ️ [Сайт для проекта Privacy Search Companion](https://github.com/SeryiBaran/PSC-site)
-- 👆 [Игра-кликер в виде Telegram бота](https://github.com/SeryiBaran/telegram-clicker)
 - 🌐 [Свой сайт](https://github.com/SeryiBaran/seryibaran.github.io)
 - 🥴 [Генератор немного неоптимизированного калькулятора](https://github.com/SeryiBaran/generated-calc)
 - 📦 [Стартовый шаблон Vue + TypeScript](https://github.com/SeryiBaran/tailvue-starter)
-- [Модули для PowerShell](https://www.powershellgallery.com/profiles/SeryiBaran):
+- 🤖 TG боты
+  - 👆 [Игра-кликер в виде TG бота](https://github.com/SeryiBaran/telegram-clicker) (и её [порт в Web](https://stackblitz.com/edit/vitejs-vite-ywdam5))
+  - 🖼 [TG бот создающий красивый скриншот кода из сообщения](https://github.com/SeryiBaran/code-colorizer-bot)
+- 🧩 Модули для PowerShell:
   - 📦 [PublishProject](https://github.com/SeryiBaran/PublishProject-PS/)
   - 📦 [QuickIP](https://github.com/SeryiBaran/QuickIP-PS/)
   - 📦 [TestNodeJSVersion](https://github.com/SeryiBaran/TestNodeJSVersion-PS/)
