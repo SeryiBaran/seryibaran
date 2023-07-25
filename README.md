@@ -36,6 +36,7 @@
   - 📦 [PublishProject](https://github.com/SeryiBaran/PublishProject-PS/)
   - 📦 [QuickIP](https://github.com/SeryiBaran/QuickIP-PS/)
   - 📦 [TestNodeJSVersion](https://github.com/SeryiBaran/TestNodeJSVersion-PS/)
+  - 📦 [CopySSHKey](https://github.com/SeryiBaran/CopySSHKey-PS/)
 - 🐳 Docker
   - 📦 [Форк примера Gitea + Drone](https://github.com/SeryiBaran/drone-gitea-on-docker)
 
