@@ -24,7 +24,7 @@
 - 🐹 [Пародия на Twitter - Telehumpter](https://github.com/SeryiBaran/telehumpter)
 - ✅ [Todo на Vue](https://github.com/SeryiBaran/todo-vue)
 - ℹ️ [Сайт для проекта Мост Свободы](https://github.com/f5ociety/Bridge-of-Liberty)
-- 🧩 [Firefox расширение Privacy Search Companion](https://github.com/Erghel/Privacy-Search-Companion)
+- 🧩 [Firefox расширение Privacy Search Companion](https://github.com/SeryiBaran/Privacy-Search-Companion)
 - ℹ️ [Сайт для проекта Privacy Search Companion](https://github.com/SeryiBaran/PSC-site)
 - 🌐 [Свой сайт](https://github.com/SeryiBaran/seryibaran.github.io)
 - 🥴 [Генератор немного неоптимизированного калькулятора](https://github.com/SeryiBaran/generated-calc)
