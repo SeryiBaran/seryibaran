@@ -9,7 +9,7 @@
 ## 🤹‍♂️ Что я умею
 
 - ![](https://img.shields.io/badge/-HTML-222?style=for-the-badge&logo=html5)
-- ![](https://img.shields.io/badge/-CSS-222?style=for-the-badge&logo=css3) ![](https://img.shields.io/badge/-Sass\/PostCSS-222?style=for-the-badge&logo=sass) ![](https://img.shields.io/badge/-Tailwind-222?style=for-the-badge&logo=TailwindCSS)
+- ![](https://img.shields.io/badge/-CSS-222?style=for-the-badge&logo=css3) ![](https://img.shields.io/badge/-Sass\/PostCSS-222?style=for-the-badge&logo=sass) ![](https://img.shields.io/badge/-Tailwind-222?style=for-the-badge&logo=TailwindCSS) ![](https://img.shields.io/badge/-UnoCSS-222?style=for-the-badge&logo=UnoCSS)
 - ![](https://img.shields.io/badge/-JavaScript-222?style=for-the-badge&logo=JavaScript) ![](https://img.shields.io/badge/-TypeScript-222?style=for-the-badge&logo=TypeScript) ![](https://img.shields.io/badge/-Vue.js-222?style=for-the-badge&logo=Vue.js) ![](https://img.shields.io/badge/-Pinia-222?style=for-the-badge&logo=Vue.js)
 - ![](https://img.shields.io/badge/-ESLint-222?style=for-the-badge&logo=ESLint) ![](https://img.shields.io/badge/-Prettier-222?style=for-the-badge&logo=Prettier)
 - ![](https://img.shields.io/badge/-Vite.js-222?style=for-the-badge&logo=Vite) ![](https://img.shields.io/badge/-Rollup-222?style=for-the-badge&logo=rollupdotjs) ![](https://img.shields.io/badge/-Vitest-222?style=for-the-badge&logo=Vitest) ![](https://img.shields.io/badge/-Jest-222?style=for-the-badge&logo=Jest)
