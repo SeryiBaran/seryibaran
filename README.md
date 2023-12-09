@@ -39,6 +39,8 @@
   - 📦 [CopySSHKey](https://github.com/SeryiBaran/CopySSHKey-PS/)
 - 🐳 Docker
   - 📦 [Форк примера Gitea + Drone](https://github.com/SeryiBaran/drone-gitea-on-docker)
+- ⚡ Электроника
+  - ♨️ [Термостат на Arduino](https://github.com/SeryiBaran/ardustat)
 
 И ещё много интересного/неинтересного [тут](https://github.com/SeryiBaran?tab=repositories).
 
