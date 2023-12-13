@@ -41,6 +41,8 @@
   - 📦 [Форк примера Gitea + Drone](https://github.com/SeryiBaran/drone-gitea-on-docker)
 - ⚡ Электроника
   - ♨️ [Термостат на Arduino](https://github.com/SeryiBaran/ardustat)
+- 📝 VSCode
+  - ▶️ [Большие удобные кнопки для PlatformIO](https://github.com/SeryiBaran/platformio-big-buttons)
 
 И ещё много интересного/неинтересного [тут](https://github.com/SeryiBaran?tab=repositories).
 
