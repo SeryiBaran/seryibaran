@@ -30,6 +30,7 @@
 - 🌐 [Свой сайт](https://github.com/SeryiBaran/seryibaran.github.io)
 - 🥴 [Генератор немного неоптимизированного калькулятора](https://github.com/SeryiBaran/generated-calc)
 - 📦 [Стартовый шаблон Vue + TypeScript](https://github.com/SeryiBaran/tailvue-starter)
+- 🌐 [GUI для Yt-dlp](https://github.com/SeryiBaran/yt-dlp-python-gui)
 - 🤖 TG боты
   - 👆 [Игра-кликер в виде TG бота](https://github.com/SeryiBaran/telegram-clicker) (и её [порт в Web](https://stackblitz.com/edit/vitejs-vite-ywdam5))
   - 🖼 [TG бот создающий красивый скриншот кода из сообщения](https://github.com/SeryiBaran/code-colorizer-bot)
