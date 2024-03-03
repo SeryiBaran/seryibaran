@@ -13,9 +13,9 @@
 - ![](https://img.shields.io/badge/-JavaScript-222?style=for-the-badge&logo=JavaScript) ![](https://img.shields.io/badge/-TypeScript-222?style=for-the-badge&logo=TypeScript) ![](https://img.shields.io/badge/-Vue.js-222?style=for-the-badge&logo=Vue.js) ![](https://img.shields.io/badge/-Pinia-222?style=for-the-badge&logo=Vue.js)
 - ![](https://img.shields.io/badge/-ESLint-222?style=for-the-badge&logo=ESLint) ![](https://img.shields.io/badge/-Prettier-222?style=for-the-badge&logo=Prettier)
 - ![](https://img.shields.io/badge/-Vite.js-222?style=for-the-badge&logo=Vite) ![](https://img.shields.io/badge/-Rollup-222?style=for-the-badge&logo=rollupdotjs) ![](https://img.shields.io/badge/-Vitest-222?style=for-the-badge&logo=Vitest) ![](https://img.shields.io/badge/-Jest-222?style=for-the-badge&logo=Jest)
-- ![](https://img.shields.io/badge/-Git-222?style=for-the-badge&logo=Git)
 - ![](https://img.shields.io/badge/-Astro-222?style=for-the-badge&logo=Astro)
 - ![](https://img.shields.io/badge/-Расширения_\(Manifest_2\/3\)-222?style=for-the-badge&logo=TypeScript) ![](https://img.shields.io/badge/-Telegram_боты_\(GrammY.js\)-222?style=for-the-badge&logo=TypeScript)
+- ![](https://img.shields.io/badge/-Git-222?style=for-the-badge&logo=Git) ![](https://img.shields.io/badge/-powershell-222?style=for-the-badge&logo=powershell) ![](https://img.shields.io/badge/-Terminal-222?style=for-the-badge&logo=windowsterminal) ![](https://img.shields.io/badge/-BASH-222?style=for-the-badge&logo=gnubash)
 
 ## 💼 Что я ~~на~~делал/форкнул
 
