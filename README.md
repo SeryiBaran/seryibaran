@@ -32,6 +32,8 @@
 - 📦 [Стартовый шаблон Vue + TypeScript](https://github.com/SeryiBaran/tailvue-starter)
 - 🌐 [GUI для Yt-dlp](https://github.com/SeryiBaran/yt-dlp-python-gui)
 - 📦 [Установщик FFmpeg для Windows](https://github.com/SeryiBaran/ffmpeg_installer)
+- 🖥️ [Транспилируемый язык программирования "snowbowles-script (SNOWBOWLEScript)"](https://github.com/SeryiBaran/snowbowles-script)
+- 🖥️ [Визуализация текста в разных кодировках в терминале](https://github.com/SeryiBaran/encoding-visualization)
 - 🤖 TG боты
   - 👆 [Игра-кликер в виде TG бота](https://github.com/SeryiBaran/telegram-clicker) (и её [порт в Web](https://stackblitz.com/edit/vitejs-vite-ywdam5))
   - 🖼 [TG бот создающий красивый скриншот кода из сообщения](https://github.com/SeryiBaran/code-colorizer-bot)
